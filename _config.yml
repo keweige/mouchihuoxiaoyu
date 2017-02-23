@@ -70,7 +70,7 @@ theme: chan
 backup:
   type: git
   repository:
-    github: git@github.com:keweige/mouchihuoxiaoyu.git
+    github: git@github.com:keweige/mouchihuoxiaoyu.git,master
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
