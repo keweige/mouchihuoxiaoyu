@@ -1,7 +1,8 @@
 ---
 title: Music
 date: 2017-02-23 22:19:07
-tags: Music
+categories: Music
+comments: true
 ---
 
 This is a test for playing music.

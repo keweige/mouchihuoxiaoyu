@@ -66,6 +66,9 @@ pagination_dir: page
 plugins: hexo-tag-aplayer
 theme: chan
 
+# Disqus
+disqus_shortname: mouchihuoxiaoyu-com
+
 # Backup
 backup:
   type: git

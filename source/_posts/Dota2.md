@@ -1,9 +1,11 @@
 ---
 title: Dota2
 date: 2017-02-23 21:49:36
+comments: true
+categories: Game
 tags:
 - Dota2
-- Game
+- Steam
 ---
 
 This is a picture test.
